@@ -1,0 +1,14 @@
+mx\huertos\parcels\dto\CreateParcelRequest$LocationRequest.class
+mx\huertos\parcels\exception\InvalidInputException.class
+mx\huertos\parcels\model\SoilType.class
+mx\huertos\parcels\service\ParcelService.class
+mx\huertos\parcels\exception\ApiError.class
+mx\huertos\parcels\service\TextSanitizer.class
+mx\huertos\parcels\controller\ParcelController.class
+mx\huertos\parcels\exception\GlobalExceptionHandler.class
+mx\huertos\parcels\ParcelServiceApplication.class
+mx\huertos\parcels\repository\ParcelRepository.class
+mx\huertos\parcels\exception\ResourceNotFoundException.class
+mx\huertos\parcels\dto\CreateParcelRequest.class
+mx\huertos\parcels\model\Parcel.class
+mx\huertos\parcels\model\Location.class
