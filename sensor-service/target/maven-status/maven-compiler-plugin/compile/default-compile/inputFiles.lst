@@ -1,0 +1,11 @@
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\sensor-service\src\main\java\mx\huertos\sensors\controller\SensorReadingController.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\sensor-service\src\main\java\mx\huertos\sensors\dto\CreateSensorReadingRequest.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\sensor-service\src\main\java\mx\huertos\sensors\exception\ApiError.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\sensor-service\src\main\java\mx\huertos\sensors\exception\GlobalExceptionHandler.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\sensor-service\src\main\java\mx\huertos\sensors\exception\InvalidInputException.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\sensor-service\src\main\java\mx\huertos\sensors\exception\ResourceNotFoundException.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\sensor-service\src\main\java\mx\huertos\sensors\model\SensorReading.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\sensor-service\src\main\java\mx\huertos\sensors\repository\SensorReadingRepository.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\sensor-service\src\main\java\mx\huertos\sensors\SensorServiceApplication.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\sensor-service\src\main\java\mx\huertos\sensors\service\SensorReadingService.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\sensor-service\src\main\java\mx\huertos\sensors\service\TextSanitizer.java

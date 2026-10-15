@@ -1,0 +1,11 @@
+mx\huertos\sensors\controller\SensorReadingController.class
+mx\huertos\sensors\SensorServiceApplication.class
+mx\huertos\sensors\exception\InvalidInputException.class
+mx\huertos\sensors\dto\CreateSensorReadingRequest.class
+mx\huertos\sensors\repository\SensorReadingRepository.class
+mx\huertos\sensors\exception\ResourceNotFoundException.class
+mx\huertos\sensors\exception\ApiError.class
+mx\huertos\sensors\model\SensorReading.class
+mx\huertos\sensors\service\TextSanitizer.class
+mx\huertos\sensors\exception\GlobalExceptionHandler.class
+mx\huertos\sensors\service\SensorReadingService.class
