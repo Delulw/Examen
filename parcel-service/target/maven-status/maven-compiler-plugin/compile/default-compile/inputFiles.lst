@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\parcel-service\src\main\java\mx\huertos\parcels\controller\ParcelController.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\parcel-service\src\main\java\mx\huertos\parcels\dto\CreateParcelRequest.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\parcel-service\src\main\java\mx\huertos\parcels\exception\ApiError.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\parcel-service\src\main\java\mx\huertos\parcels\exception\GlobalExceptionHandler.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\parcel-service\src\main\java\mx\huertos\parcels\exception\InvalidInputException.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\parcel-service\src\main\java\mx\huertos\parcels\exception\ResourceNotFoundException.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\parcel-service\src\main\java\mx\huertos\parcels\model\Location.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\parcel-service\src\main\java\mx\huertos\parcels\model\Parcel.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\parcel-service\src\main\java\mx\huertos\parcels\model\SoilType.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\parcel-service\src\main\java\mx\huertos\parcels\ParcelServiceApplication.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\parcel-service\src\main\java\mx\huertos\parcels\repository\ParcelRepository.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\parcel-service\src\main\java\mx\huertos\parcels\service\ParcelService.java
+C:\Users\gabri\OneDrive\Escritorio\examen\Examen\parcel-service\src\main\java\mx\huertos\parcels\service\TextSanitizer.java
